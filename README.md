@@ -1,2 +1,18 @@
 # algo_hw_05
-Otus-Algo, Homework 05 - BubbleSort, SelectionSort, InsertionSort, ShellSort, HeapSort
+Otus-Algo, Homework 05 - SelectionSort, InsertionSort, ShellSort, HeapSort
+
+Цель: Реализовать рассмотренные алгоритмы сортировки и сравнить их эффективность.
+
+#### Task 01 - SelectionSort
+#### Task 02 - InsertionSort
+#### Task 03 - ShellSort
+#### Task 04 - HeapSort
+
+Тестировать алгоритмы следует на массивах таких размеров:
+1, 10, 100, 1.000, 10.000, 100.000, 1.000.000, 10.000.000 (этот по желанию)
+
+И с различным характером данных:
+а) random - массив их случайных чисел
+б) digits - массив из случайных цифр
+в) sorted - на 99% отсортированный массив
+г) revers - обратно-отсортированный массив

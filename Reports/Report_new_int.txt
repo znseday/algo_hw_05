@@ -1,0 +1,831 @@
+Task - 0. Random - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000008
+Test passed: true
+
+     3:
+          true      0.000513
+Test passed: true
+
+     4:
+          true      0.048265
+Test passed: true
+
+     5:
+          true      4.726732
+Test passed: true
+
+     6:
+          true    469.642882
+Test passed: true
+
+
+
+Task - 0. Random - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000002
+Test passed: true
+
+     3:
+          true      0.000112
+Test passed: true
+
+     4:
+          true      0.010071
+Test passed: true
+
+     5:
+          true      0.984497
+Test passed: true
+
+     6:
+          true    101.315908
+Test passed: true
+
+
+
+Task - 0. Random - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000004
+Test passed: true
+
+     3:
+          true      0.000059
+Test passed: true
+
+     4:
+          true      0.000853
+Test passed: true
+
+     5:
+          true      0.011654
+Test passed: true
+
+     6:
+          true      0.151843
+Test passed: true
+
+     7:
+          true      2.018259
+Test passed: true
+
+
+
+Task - 0. Random - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000004
+Test passed: true
+
+     3:
+          true      0.000059
+Test passed: true
+
+     4:
+          true      0.000854
+Test passed: true
+
+     5:
+          true      0.011595
+Test passed: true
+
+     6:
+          true      0.152007
+Test passed: true
+
+     7:
+          true      2.028391
+Test passed: true
+
+
+
+Task - 0. Random - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000004
+Test passed: true
+
+     3:
+          true      0.000059
+Test passed: true
+
+     4:
+          true      0.000851
+Test passed: true
+
+     5:
+          true      0.011637
+Test passed: true
+
+     6:
+          true      0.151992
+Test passed: true
+
+     7:
+          true      2.031788
+Test passed: true
+
+
+
+Task - 0. Random - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000005
+Test passed: true
+
+     3:
+          true      0.000057
+Test passed: true
+
+     4:
+          true      0.000736
+Test passed: true
+
+     5:
+          true      0.009404
+Test passed: true
+
+     6:
+          true      0.126030
+Test passed: true
+
+     7:
+          true      2.051357
+Test passed: true
+
+
+
+Task - 1. Digits - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000007
+Test passed: true
+
+     3:
+          true      0.000588
+Test passed: true
+
+     4:
+          true      0.047157
+Test passed: true
+
+     5:
+          true      4.694757
+Test passed: true
+
+     6:
+          true    469.504901
+Test passed: true
+
+
+
+Task - 1. Digits - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000003
+Test passed: true
+
+     3:
+          true      0.000103
+Test passed: true
+
+     4:
+          true      0.011531
+Test passed: true
+
+     5:
+          true      0.882827
+Test passed: true
+
+     6:
+          true     91.435615
+Test passed: true
+
+
+
+Task - 1. Digits - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000003
+Test passed: true
+
+     3:
+          true      0.000032
+Test passed: true
+
+     4:
+          true      0.000387
+Test passed: true
+
+     5:
+          true      0.004437
+Test passed: true
+
+     6:
+          true      0.048710
+Test passed: true
+
+     7:
+          true      0.560098
+Test passed: true
+
+
+
+Task - 1. Digits - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000003
+Test passed: true
+
+     3:
+          true      0.000033
+Test passed: true
+
+     4:
+          true      0.000402
+Test passed: true
+
+     5:
+          true      0.004438
+Test passed: true
+
+     6:
+          true      0.048530
+Test passed: true
+
+     7:
+          true      0.559058
+Test passed: true
+
+
+
+Task - 1. Digits - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000003
+Test passed: true
+
+     3:
+          true      0.000032
+Test passed: true
+
+     4:
+          true      0.000389
+Test passed: true
+
+     5:
+          true      0.004259
+Test passed: true
+
+     6:
+          true      0.048556
+Test passed: true
+
+     7:
+          true      0.560200
+Test passed: true
+
+
+
+Task - 1. Digits - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000001
+Test passed: true
+
+     2:
+          true      0.000004
+Test passed: true
+
+     3:
+          true      0.000048
+Test passed: true
+
+     4:
+          true      0.000515
+Test passed: true
+
+     5:
+          true      0.005574
+Test passed: true
+
+     6:
+          true      0.061340
+Test passed: true
+
+     7:
+          true      0.653928
+Test passed: true
+
+
+
+Task - 2. Sorted - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000006
+Test passed: true
+
+     3:
+          true      0.000479
+Test passed: true
+
+     4:
+          true      0.047061
+Test passed: true
+
+     5:
+          true      4.717561
+Test passed: true
+
+     6:
+          true    469.528822
+Test passed: true
+
+
+
+Task - 2. Sorted - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000000
+Test passed: true
+
+     3:
+          true      0.000006
+Test passed: true
+
+     4:
+          true      0.000454
+Test passed: true
+
+     5:
+          true      0.027011
+Test passed: true
+
+     6:
+          true      2.632215
+Test passed: true
+
+
+
+Task - 2. Sorted - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000001
+Test passed: true
+
+     3:
+          true      0.000028
+Test passed: true
+
+     4:
+          true      0.000489
+Test passed: true
+
+     5:
+          true      0.008351
+Test passed: true
+
+     6:
+          true      0.107075
+Test passed: true
+
+     7:
+          true      1.447137
+Test passed: true
+
+
+
+Task - 2. Sorted - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000001
+Test passed: true
+
+     3:
+          true      0.000028
+Test passed: true
+
+     4:
+          true      0.000521
+Test passed: true
+
+     5:
+          true      0.007822
+Test passed: true
+
+     6:
+          true      0.107069
+Test passed: true
+
+     7:
+          true      1.449570
+Test passed: true
+
+
+
+Task - 2. Sorted - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000001
+Test passed: true
+
+     3:
+          true      0.000027
+Test passed: true
+
+     4:
+          true      0.000491
+Test passed: true
+
+     5:
+          true      0.007797
+Test passed: true
+
+     6:
+          true      0.106728
+Test passed: true
+
+     7:
+          true      1.459408
+Test passed: true
+
+
+
+Task - 2. Sorted - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000004
+Test passed: true
+
+     3:
+          true      0.000044
+Test passed: true
+
+     4:
+          true      0.000490
+Test passed: true
+
+     5:
+          true      0.005517
+Test passed: true
+
+     6:
+          true      0.061266
+Test passed: true
+
+     7:
+          true      0.686185
+Test passed: true
+
+
+
+Task - 3. Revers - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000005
+Test passed: true
+
+     3:
+          true      0.000405
+Test passed: true
+
+     4:
+          true      0.039610
+Test passed: true
+
+     5:
+          true      3.944738
+Test passed: true
+
+     6:
+          true    391.854473
+Test passed: true
+
+
+
+Task - 3. Revers - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000003
+Test passed: true
+
+     3:
+          true      0.000230
+Test passed: true
+
+     4:
+          true      0.019826
+Test passed: true
+
+     5:
+          true      1.982280
+Test passed: true
+
+     6:
+          true    208.152813
+Test passed: true
+
+
+
+Task - 3. Revers - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000025
+Test passed: true
+
+     3:
+          true      0.000016
+Test passed: true
+
+     4:
+          true      0.000206
+Test passed: true
+
+     5:
+          true      0.002809
+Test passed: true
+
+     6:
+          true      0.031559
+Test passed: true
+
+     7:
+          true      0.361412
+Test passed: true
+
+
+
+Task - 3. Revers - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000002
+Test passed: true
+
+     3:
+          true      0.000016
+Test passed: true
+
+     4:
+          true      0.000209
+Test passed: true
+
+     5:
+          true      0.002660
+Test passed: true
+
+     6:
+          true      0.031139
+Test passed: true
+
+     7:
+          true      0.360378
+Test passed: true
+
+
+
+Task - 3. Revers - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000002
+Test passed: true
+
+     3:
+          true      0.000016
+Test passed: true
+
+     4:
+          true      0.000204
+Test passed: true
+
+     5:
+          true      0.002668
+Test passed: true
+
+     6:
+          true      0.031091
+Test passed: true
+
+     7:
+          true      0.360911
+Test passed: true
+
+
+
+Task - 3. Revers - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000004
+Test passed: true
+
+     3:
+          true      0.000044
+Test passed: true
+
+     4:
+          true      0.000497
+Test passed: true
+
+     5:
+          true      0.005629
+Test passed: true
+
+     6:
+          true      0.063024
+Test passed: true
+
+     7:
+          true      0.692956
+Test passed: true
+
+

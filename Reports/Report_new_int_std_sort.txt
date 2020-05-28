@@ -1,0 +1,143 @@
+Task - 0. Random - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000003
+Test passed: true
+
+     3:
+          true      0.000038
+Test passed: true
+
+     4:
+          true      0.000499
+Test passed: true
+
+     5:
+          true      0.005987
+Test passed: true
+
+     6:
+          true      0.071446
+Test passed: true
+
+     7:
+          true      0.843255
+Test passed: true
+
+
+
+Task - 1. Digits - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000002
+Test passed: true
+
+     3:
+          true      0.000021
+Test passed: true
+
+     4:
+          true      0.000209
+Test passed: true
+
+     5:
+          true      0.002218
+Test passed: true
+
+     6:
+          true      0.024027
+Test passed: true
+
+     7:
+          true      0.254315
+Test passed: true
+
+
+
+Task - 2. Sorted - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000000
+Test passed: true
+
+     2:
+          true      0.000002
+Test passed: true
+
+     3:
+          true      0.000009
+Test passed: true
+
+     4:
+          true      0.000115
+Test passed: true
+
+     5:
+          true      0.001317
+Test passed: true
+
+     6:
+          true      0.015479
+Test passed: true
+
+     7:
+          true      0.187446
+Test passed: true
+
+
+
+Task - 3. Revers - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000001
+Test passed: true
+
+     2:
+          true      0.000001
+Test passed: true
+
+     3:
+          true      0.000006
+Test passed: true
+
+     4:
+          true      0.000074
+Test passed: true
+
+     5:
+          true      0.000895
+Test passed: true
+
+     6:
+          true      0.010189
+Test passed: true
+
+     7:
+          true      0.129424
+Test passed: true
+
+

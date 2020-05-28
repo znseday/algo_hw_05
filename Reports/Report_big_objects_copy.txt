@@ -1,0 +1,863 @@
+Task - 0. Random (big_objects) - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000003
+Test passed: true
+
+     2:
+          true      0.000057
+Test passed: true
+
+     3:
+          true      0.003510
+Test passed: true
+
+     4:
+          true      0.335069
+Test passed: true
+
+     5:
+          true     45.352909
+Test passed: true
+
+
+
+Task - 0. Random (big_objects) - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000238
+Test passed: true
+
+     3:
+          true      0.021380
+Test passed: true
+
+     4:
+          true      2.128949
+Test passed: true
+
+     5:
+          true    212.089164
+Test passed: true
+
+
+
+Task - 0. Random (big_objects) - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000156
+Test passed: true
+
+     3:
+          true      0.002168
+Test passed: true
+
+     4:
+          true      0.036999
+Test passed: true
+
+     5:
+          true      0.903861
+Test passed: true
+
+     6:
+          true     18.974666
+Test passed: true
+
+
+
+Task - 0. Random (big_objects) - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000100
+Test passed: true
+
+     3:
+          true      0.001847
+Test passed: true
+
+     4:
+          true      0.030186
+Test passed: true
+
+     5:
+          true      0.801741
+Test passed: true
+
+     6:
+          true     16.875682
+Test passed: true
+
+
+
+Task - 0. Random (big_objects) - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000004
+Test passed: true
+
+     2:
+          true      0.000111
+Test passed: true
+
+     3:
+          true      0.001866
+Test passed: true
+
+     4:
+          true      0.028155
+Test passed: true
+
+     5:
+          true      0.625371
+Test passed: true
+
+     6:
+          true     11.711473
+Test passed: true
+
+
+
+Task - 0. Random (big_objects) - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000008
+Test passed: true
+
+     2:
+          true      0.000153
+Test passed: true
+
+     3:
+          true      0.002529
+Test passed: true
+
+     4:
+          true      0.034305
+Test passed: true
+
+     5:
+          true      0.850795
+Test passed: true
+
+     6:
+          true     12.997996
+Test passed: true
+
+
+
+Task - 0. Random (big_objects) - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000007
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000073
+Test passed: true
+
+     3:
+          true      0.000909
+Test passed: true
+
+     4:
+          true      0.012113
+Test passed: true
+
+     5:
+          true      0.243355
+Test passed: true
+
+     6:
+          true      3.701745
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000003
+Test passed: true
+
+     2:
+          true      0.000062
+Test passed: true
+
+     3:
+          true      0.003847
+Test passed: true
+
+     4:
+          true      0.381823
+Test passed: true
+
+     5:
+          true     46.316677
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000222
+Test passed: true
+
+     3:
+          true      0.020396
+Test passed: true
+
+     4:
+          true      2.032245
+Test passed: true
+
+     5:
+          true    206.019606
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000006
+Test passed: true
+
+     2:
+          true      0.000146
+Test passed: true
+
+     3:
+          true      0.001903
+Test passed: true
+
+     4:
+          true      0.028955
+Test passed: true
+
+     5:
+          true      0.545000
+Test passed: true
+
+     6:
+          true     10.021301
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000099
+Test passed: true
+
+     3:
+          true      0.001491
+Test passed: true
+
+     4:
+          true      0.021283
+Test passed: true
+
+     5:
+          true      0.414758
+Test passed: true
+
+     6:
+          true      7.069765
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000098
+Test passed: true
+
+     3:
+          true      0.001534
+Test passed: true
+
+     4:
+          true      0.021957
+Test passed: true
+
+     5:
+          true      0.416237
+Test passed: true
+
+     6:
+          true      7.705758
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000008
+Test passed: true
+
+     2:
+          true      0.000153
+Test passed: true
+
+     3:
+          true      0.002344
+Test passed: true
+
+     4:
+          true      0.031731
+Test passed: true
+
+     5:
+          true      0.693696
+Test passed: true
+
+     6:
+          true      9.979284
+Test passed: true
+
+
+
+Task - 0. Letters (big_objects) - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000060
+Test passed: true
+
+     3:
+          true      0.000852
+Test passed: true
+
+     4:
+          true      0.012543
+Test passed: true
+
+     5:
+          true      0.322850
+Test passed: true
+
+     6:
+          true      4.969221
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000003
+Test passed: true
+
+     2:
+          true      0.000047
+Test passed: true
+
+     3:
+          true      0.003192
+Test passed: true
+
+     4:
+          true      0.308326
+Test passed: true
+
+     5:
+          true     35.539996
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000002
+Test passed: true
+
+     2:
+          true      0.000018
+Test passed: true
+
+     3:
+          true      0.000824
+Test passed: true
+
+     4:
+          true      0.067157
+Test passed: true
+
+     5:
+          true      5.536111
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000004
+Test passed: true
+
+     2:
+          true      0.000087
+Test passed: true
+
+     3:
+          true      0.001602
+Test passed: true
+
+     4:
+          true      0.027304
+Test passed: true
+
+     5:
+          true      0.488079
+Test passed: true
+
+     6:
+          true     20.831951
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000004
+Test passed: true
+
+     2:
+          true      0.000061
+Test passed: true
+
+     3:
+          true      0.001215
+Test passed: true
+
+     4:
+          true      0.020753
+Test passed: true
+
+     5:
+          true      0.398759
+Test passed: true
+
+     6:
+          true      8.406729
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000003
+Test passed: true
+
+     2:
+          true      0.000071
+Test passed: true
+
+     3:
+          true      0.001399
+Test passed: true
+
+     4:
+          true      0.022076
+Test passed: true
+
+     5:
+          true      0.364190
+Test passed: true
+
+     6:
+          true      7.305568
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000008
+Test passed: true
+
+     2:
+          true      0.000170
+Test passed: true
+
+     3:
+          true      0.002486
+Test passed: true
+
+     4:
+          true      0.033983
+Test passed: true
+
+     5:
+          true      0.559697
+Test passed: true
+
+     6:
+          true      7.281503
+Test passed: true
+
+
+
+Task - 2. Sorted (big_objects) - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000002
+Test passed: true
+
+     2:
+          true      0.000034
+Test passed: true
+
+     3:
+          true      0.000357
+Test passed: true
+
+     4:
+          true      0.004356
+Test passed: true
+
+     5:
+          true      0.047646
+Test passed: true
+
+     6:
+          true      0.565377
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - Selection Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000003
+Test passed: true
+
+     2:
+          true      0.000055
+Test passed: true
+
+     3:
+          true      0.003964
+Test passed: true
+
+     4:
+          true      0.411150
+Test passed: true
+
+     5:
+          true     47.817359
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - Insert Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000006
+Test passed: true
+
+     2:
+          true      0.000443
+Test passed: true
+
+     3:
+          true      0.041689
+Test passed: true
+
+     4:
+          true      4.078838
+Test passed: true
+
+     5:
+          true    428.766545
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - Shell Sort v.1 (N/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000111
+Test passed: true
+
+     3:
+          true      0.001865
+Test passed: true
+
+     4:
+          true      0.027150
+Test passed: true
+
+     5:
+          true      0.463881
+Test passed: true
+
+     6:
+          true      9.228398
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - Shell Sort v.2 ((3^k - 1)/2):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000005
+Test passed: true
+
+     2:
+          true      0.000082
+Test passed: true
+
+     3:
+          true      0.001324
+Test passed: true
+
+     4:
+          true      0.018724
+Test passed: true
+
+     5:
+          true      0.265349
+Test passed: true
+
+     6:
+          true      4.822884
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - Shell Sort v.3 (v.2 + "Best known"):
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000004
+Test passed: true
+
+     2:
+          true      0.000095
+Test passed: true
+
+     3:
+          true      0.001472
+Test passed: true
+
+     4:
+          true      0.021198
+Test passed: true
+
+     5:
+          true      0.298705
+Test passed: true
+
+     6:
+          true      5.516943
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - Heap Sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000000
+Test passed: true
+
+     1:
+          true      0.000006
+Test passed: true
+
+     2:
+          true      0.000137
+Test passed: true
+
+     3:
+          true      0.002170
+Test passed: true
+
+     4:
+          true      0.030474
+Test passed: true
+
+     5:
+          true      0.629009
+Test passed: true
+
+     6:
+          true      9.133545
+Test passed: true
+
+
+
+Task - 3. Revers (big_objects) - std::sort:
+ Test#  Status       Time, s
+     0:
+          true      0.000001
+Test passed: true
+
+     1:
+          true      0.000006
+Test passed: true
+
+     2:
+          true      0.000043
+Test passed: true
+
+     3:
+          true      0.000435
+Test passed: true
+
+     4:
+          true      0.004858
+Test passed: true
+
+     5:
+          true      0.052538
+Test passed: true
+
+     6:
+          true      0.579269
+Test passed: true
+
+
